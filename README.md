@@ -34,8 +34,6 @@
 [//]: # (  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=white"/></a>&nbsp )
 
 [//]: # (  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp )
-  <br>
-
 
   <br>
 </p>
